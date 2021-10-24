@@ -15,14 +15,13 @@ labels:
 summary: A responsive web application for E-commerce Soft Ice Cream shop.
 ---
 
-<img class="ui large image" src="../images/mrdream2.png">
-<img class="width 100%" src="../images/mrdream1.png">
+<img class="width 50%" src="../images/mrdream2.png">
+<img class="width 10%" src="../images/mrdream1.png">
 
 mrdreamsoftice is a web application which I helped create as a portfolio project, Rainy Season 2021. This project helped me learn how to design and implement a responsive website, you can see it via https://mrdreamsoftice.herokuapp.com/.
 
-mrdreamsoftice is implemented using [Flask](https://flask.palletsprojects.com
-), a Python application platform. Within a week, I created a website that implemented a purchase link via whatsapp business directly to the store, applied the store's Instagram link and shop address.
+mrdreamsoftice is implemented using [Flask](https://flask.palletsprojects.com), a Python application platform. Within a week, I created a website that implemented a purchase link via whatsapp business directly to the store, applied the store's Instagram link and shop address.
 
 In this project I gained experience with Front-end application design and related technologies, including [Javascript](http://javascript.com) and [Bootstrap](http://getbootstrap.com/) CSS Frameworks for user interfaces.
- 
+
 Source: <a href="https://github.com/ricko1993/mr.dream"><i class="large github icon"></i>mr.dream</a>
