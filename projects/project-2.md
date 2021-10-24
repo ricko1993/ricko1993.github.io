@@ -15,8 +15,8 @@ labels:
 summary: A responsive web application for E-commerce Soft Ice Cream shop.
 ---
 
-<img class="width 50%" src="../images/mrdream2.png">
-<img class="width 10%" src="../images/mrdream1.png">
+<img class="img-fluid" src="../images/mrdream2.png">
+<img class="img-fluid" src="../images/mrdream1.png">
 
 mrdreamsoftice is a web application which I helped create as a portfolio project, Rainy Season 2021. This project helped me learn how to design and implement a responsive website, you can see it via https://mrdreamsoftice.herokuapp.com/.
 
