@@ -2,26 +2,26 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: mrdreamsoftice
+permalink: projects/mrdreamsoftice
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2021-02-15
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
+  - Python
+  - Flask
+  - Bootstrap
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A responsive web application for E-commerce Soft Ice Cream shop.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui large right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+mrdreamsoftice is a web application which I helped create as a portfolio project, Rainy Season 2021. This project helped me learn how to design and implement a responsive website.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+mrdreamsoftice is implemented using [Flask](https://flask.palletsprojects.com
+), a Python application platform. Within a week, I created a website that implemented a purchase link via whatsapp business directly to the store, applied the store's Instagram link and shop address.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+In this project I gained experience with Front-end application design and related technologies, including [Javascript](http://javascript.com) and [Bootstrap](http://getbootstrap.com/) CSS Frameworks for user interfaces.
  
-<img class="" src="../images/vacay-home-page.png">
-
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/ricko1993/mr.dream"><i class="large github icon"></i>mr.dream</a>
