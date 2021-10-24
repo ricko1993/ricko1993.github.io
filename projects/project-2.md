@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/mrdream-square.png
 title: mrdreamsoftice
 permalink: projects/mrdreamsoftice
 # All dates must be YYYY-MM-DD format!
